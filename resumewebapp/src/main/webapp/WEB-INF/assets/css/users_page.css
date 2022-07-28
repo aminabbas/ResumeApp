@@ -1,0 +1,21 @@
+
+.mycontainer div{
+    margin-bottom:10px
+}
+
+.login_background{
+    background-image: url('https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+
+}
+
+.login_fix_{
+    background: #fffdfd40;
+    border: white;
+    padding-top: 172px;
+    font-style: italic;
+    color: aliceblue;
+    width: 500px;
+    height: 500px;
+}
+
+
